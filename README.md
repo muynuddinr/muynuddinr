@@ -1,6 +1,6 @@
-# Aman Anil (Prof)
+# Muynuddin R
 
-## Cyber Polymath Researcher & Scientist
+## Full Stack Developer
 
 ### 💫 About Me
 💻 Dedicated to innovative solutions and 👨‍💻 continuous learning.<br>
@@ -11,9 +11,9 @@
 👨‍💻 Programmer.<br>
 
 ### 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/spyberpolymath)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+917892939127)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spyberpolymath)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dai.zo)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+917406056678)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muynuddinr)
 
 
 As a versatile technology professional, I specialize in Ethical Hacking, Cyber Forensics, Cyber Threat Intelligence, and AI & Data Science. My expertise includes identifying vulnerabilities, conducting forensic investigations, and analyzing cyber threats. I develop cutting-edge AI algorithms and leverage machine learning to solve complex problems. In Web and Application Development, I create robust, scalable solutions using modern technologies. My skills in Computer Hardware and Network Engineering enhance my cybersecurity capabilities, enabling me to build secure IT infrastructures. I approach every project holistically, continuously learning to stay at the forefront of industry trends and deliver exceptional results.
